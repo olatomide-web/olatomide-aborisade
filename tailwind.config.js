@@ -18,13 +18,16 @@ module.exports = {
       },
 
       backgroundImage: (theme) => ({
-        'logo-dark-mode' : "url('../images/logo-dark-mode.svg')",
-        'logo-light-mode' : "url('../images/logo-light-mode.svg')",
+        'logo-dark-mode' : "url('../images/logo-dark-mode.png')",
+        'logo-light-mode' : "url('../images/logo-light-mode.png')",
         'curvy-dark-mode' : "url('../images/bg-curvy-dark-mode.svg')",
         'curvy-light-mode' : "url('../images/bg-curvy-light-mode.svg')",
         'productive-dark-mode' : "url('../images/productive-dark-mode.svg')",
         'productive-light-mode' : "url('../images/productive-light-mode.svg')",
+        dots : 'url(../images/bg-dots.svg)',
+
       }),
+      
     },
   },
   variants : {
