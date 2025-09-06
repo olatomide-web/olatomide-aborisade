@@ -4,6 +4,5 @@
 
 Welcome to my personal portfolio! I'm Olatomide Aborisade, a passionate Frontend Software Engineer dedicated to building responsive, user-friendly web applications. This site showcases my skills, projects, and professional journey.
 
-🚀 Live Demo
-
-Explore my portfolio live at: https://olatomide.vercel.app/
+# 🚀 Live Demo
+https://olatomide.vercel.app/
